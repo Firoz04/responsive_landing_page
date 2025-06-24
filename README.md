@@ -1,4 +1,4 @@
-Responsive Landing Page (Figma to HTML)
+# Responsive Landing Page (Figma to HTML)
 
 This project is a responsive landing page designed by converting a Figma design into a working HTML/CSS web page.
 
